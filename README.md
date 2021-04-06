@@ -15,6 +15,13 @@ Through talking with users about challenges and needs finding analysis solutions
 - *Filter/Sort* available plugins based on limited selection of metadata (2-3 filters, 1-2 sorts) that can be handled client side
 - *Mailing List* sign up for announcements and updates for the _napari hub_
 
+## What we're building next
+
+After our _alpha_ launch, we're very excited to keep iterating and building new features that are of value to the bioimaging community, supporting current and future _napari_ users and developers.
+
+We have a host of ideas for ways that we can help biologists learn if a plugin is right for them, for imaging scientists to share their knowledge with core facility users and collaborators, and ways to help lower barriers for bioimage analysts in creating, maintaining, and supporting their plugins.
+
+When we have a clearer idea of our roadmap beyond our June release, we'll share it here. In the meantime, feel free to share your ideas by submitting a [feature request](https://github.com/chanzuckerberg/napari-hub/issues)!
 
 ## About
 
